@@ -1,0 +1,5 @@
+wa
+12
+1
+Size of the cake: M, Flavor of the cake: Chocolate, Cake ID: 23, Price of Birthday Cake: 275.0 SR
+
